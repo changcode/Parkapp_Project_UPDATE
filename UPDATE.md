@@ -12,10 +12,13 @@ Basic features:
 		- including: Title, Description, Category, Photo of one location
 	
 	2. record category of points:
-		- pull category from remote server when this app first launched, update category feature will add later as the requirment
+		- pull category from remote server when this app first launched,  
+		  update category feature will add later as the requirment
 		
 	3. modify POI at local device
-		- user can modify POI at local device, because remote server don't have API to modify point when it already uploaded
+		- user can modify POI at local device,  
+		  remote server don't have API to modify point  
+		  when it already uploaded
 		
 	4. POI management list at local and remote
 	
