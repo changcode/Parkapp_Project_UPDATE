@@ -4,6 +4,10 @@
 ###management system
 ##iOS
 ###CVNP Info Gather App
+#### 1.0 Build 20150730
+Response to requirement:
+
+	Add Setting page to show App's Version and Build info
 #### 1.0 Build 20150722
 
 Basic features:
